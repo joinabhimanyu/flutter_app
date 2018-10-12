@@ -86,8 +86,8 @@
       <file leaf-file-name="list.widget.dart" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/list.widget.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="62" column="49" lean-forward="true" selection-start-line="62" selection-start-column="49" selection-end-line="62" selection-end-column="49" />
+            <state relative-caret-position="98">
+              <caret line="157" column="53" lean-forward="true" selection-start-line="157" selection-start-column="53" selection-end-line="157" selection-end-column="53" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -177,6 +177,9 @@
       <find>showsuccess</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -198,8 +201,9 @@
     <option name="width" value="1752" />
     <option name="height" value="882" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -211,6 +215,11 @@
             <path>
               <item name="flutter_app" type="b2602c69:ProjectViewProjectNode" />
               <item name="flutter_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flutter_app" type="b2602c69:ProjectViewProjectNode" />
@@ -341,7 +350,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993573" weight="0.32839838" />
@@ -349,18 +357,18 @@
       <window_info id="Image Layers" order="4" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.43059126" side_tool="true" visible="true" weight="0.21639785" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.43059126" side_tool="true" weight="0.21639785" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" sideWeight="0.4974293" weight="0.25033647" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5694087" weight="0.2166891" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49871466" weight="0.32909605" />
-      <window_info active="true" anchor="right" id="Flutter Outline" order="6" visible="true" weight="0.23393317" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.49871466" visible="true" weight="0.6989247" />
+      <window_info anchor="right" id="Flutter Outline" order="6" visible="true" weight="0.23393317" />
       <window_info anchor="bottom" id="Logcat" order="10" sideWeight="0.4993573" weight="0.32839838" />
       <window_info id="Captures" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49828178" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" sideWeight="0.5017182" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49731183" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50268817" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" weight="0.3295302" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.83804625" weight="0.22849463" />
@@ -599,8 +607,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/list.widget.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="62" column="49" lean-forward="true" selection-start-line="62" selection-start-column="49" selection-end-line="62" selection-end-column="49" />
+        <state relative-caret-position="98">
+          <caret line="157" column="53" lean-forward="true" selection-start-line="157" selection-start-column="53" selection-end-line="157" selection-end-column="53" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
